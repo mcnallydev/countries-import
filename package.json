@@ -1,5 +1,6 @@
 {
   "name": "countries-import",
+  "version": "0.0.1",
   "dependencies": {
     "country-data": "0.0.14",
     "request": "^2.49.0"
